@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bibekkabi
 - 👀 I’m interested in solving real world problems using mathematics, data science and machine learning, and I'm also interested in doing software engineering
 - 🌱 I’m currently learning convolutional neural networks
-- 💞️ I’m looking to collaborate on projects related to anything interesting
+- 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me through gmail: bibek.kabi@gmail.com
 
 
